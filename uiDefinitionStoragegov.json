@@ -394,11 +394,11 @@
 												"value": "AADKERB"
 											},
 											{
-												"label": "EntraID Domain Services",
+												"label": "[NOT YET AVAILABLE] EntraID Domain Services",
 												"value": "AADDS"
 											},
 											{
-												"label": "None",
+												"label": "[NOT YET AVAILABLE] None",
 												"value": "None"
 											}
 										]
